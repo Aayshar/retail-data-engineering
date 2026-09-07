@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P001,Laptop,Electronics,65000
+P002,Wireless Mouse,Electronics,800
+P003,Keyboard,Electronics,1500
+P004,Office Chair,Furniture,8500
+P005,Desk,Furniture,12000
+P006,Headphones,Electronics,2500
+P007,Backpack,Accessories,1800
+P008,Smart Watch,Electronics,5500
+P009,Water Bottle,Accessories,700
+P010,Notebook,Stationery,250
