@@ -2,3 +2,12 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Generated large datasets
+data/large/
+
+# Generated data lake
+data_lake/
+
+# Generated output files
+output/*.parquet
